@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gui.png">
+<SubTexture name="Gui idle0000" x="3047" y="1782" width="407" height="562" frameX="-206" frameY="-121" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui idle0001" x="2606" y="0" width="441" height="626" frameX="-180" frameY="-62" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui idle0002" x="2158" y="640" width="445" height="633" frameX="-176" frameY="-55" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui idle0003" x="450" y="1313" width="449" height="640" frameX="-173" frameY="-49" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui idle0004" x="1708" y="642" width="450" height="641" frameX="-172" frameY="-48" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui idle0005" x="0" y="671" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui idle0006" x="0" y="1313" width="450" height="641" frameX="-172" frameY="-48" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui idle0007" x="449" y="1954" width="450" height="639" frameX="-171" frameY="-50" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui idle0008" x="899" y="1954" width="451" height="636" frameX="-170" frameY="-53" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui idle0009" x="3047" y="0" width="451" height="621" frameX="-166" frameY="-67" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui idle0010" x="3047" y="621" width="450" height="598" frameX="-160" frameY="-88" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui idle0011" x="3047" y="1219" width="428" height="563" frameX="-179" frameY="-120" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui right0003" x="899" y="1313" width="438" height="640" frameX="-240" frameY="-50" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui right0002" x="1337" y="1313" width="444" height="640" frameX="-240" frameY="-50" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui right0001" x="2158" y="0" width="448" height="640" frameX="-240" frameY="-50" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui right0000" x="0" y="1954" width="449" height="640" frameX="-240" frameY="-50" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui down0003" x="2606" y="626" width="410" height="505" frameX="-166" frameY="-188" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui down0002" x="2606" y="1131" width="426" height="484" frameX="-161" frameY="-208" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui down0001" x="2606" y="1615" width="427" height="483" frameX="-160" frameY="-209" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui down0000" x="2606" y="2098" width="427" height="482" frameX="-160" frameY="-210" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui left0003" x="2170" y="1954" width="410" height="628" frameX="-109" frameY="-65" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui left0002" x="1760" y="1954" width="410" height="630" frameX="-98" frameY="-63" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui left0001" x="2158" y="1273" width="410" height="631" frameX="-94" frameY="-62" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui left0000" x="1350" y="1954" width="410" height="631" frameX="-93" frameY="-62" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui up0003" x="1281" y="0" width="427" height="668" frameX="-176" frameY="-22" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui up0002" x="854" y="0" width="427" height="670" frameX="-176" frameY="-20" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui up0001" x="0" y="0" width="427" height="671" frameX="-176" frameY="-19" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui up0000" x="427" y="0" width="427" height="671" frameX="-176" frameY="-19" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile0000" x="450" y="671" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile0001" x="900" y="671" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile0002" x="1708" y="0" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile0003" x="1708" y="0" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile0004" x="1708" y="0" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile0005" x="1708" y="0" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile0006" x="1708" y="0" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile0007" x="1708" y="0" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile0008" x="1708" y="0" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile0009" x="1708" y="0" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile00010" x="1708" y="0" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile00011" x="1708" y="0" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile00012" x="1708" y="0" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile00013" x="1708" y="0" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile00014" x="1708" y="0" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="Gui smile00015" x="1708" y="0" width="450" height="642" frameX="-172" frameY="-47" frameWidth="720" frameHeight="720" />
+</TextureAtlas>
